@@ -9,7 +9,7 @@ cfdisk
 
 mkdir /mnt/boot/efi
 
-mkfs.fat -32 /dev/sda1
+mkfs.fat -F 32 /dev/sda1
 
 mkswap /dev/sda2
 

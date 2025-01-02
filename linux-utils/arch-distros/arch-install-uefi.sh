@@ -22,4 +22,5 @@ swapon /dev/sda2
 
 mount /dev/sda3 /mnt
 
-echo do the rest,this is unfinished.
+# using pacstrap to install stuff.
+pacstrap -K /mnt base linux linux-firmware base-devel 

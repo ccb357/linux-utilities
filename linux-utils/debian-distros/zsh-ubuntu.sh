@@ -8,6 +8,11 @@
 sudo apt install zsh zsh-autosuggestions zsh-syntax-highlighting
 
 
+#git
+
+sudo apt install git
+
+echo git is required to clone Oh my zsh
 #Installing ohmyzsh
 
 

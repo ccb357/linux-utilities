@@ -5,7 +5,7 @@
 
 
 
-sudo apt install zsh zsh-autosuggestions zsh-completions zsh-syntax-highlighting
+sudo apt install zsh zsh-autosuggestions zsh-syntax-highlighting
 
 
 #Installing ohmyzsh
